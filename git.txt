@@ -1,8 +1,17 @@
 #include<stdio.h>
 int main()
 {
+
 	while(true)
 	{
 		printf("Hello git");
 	}
+
+	for(int i=0;i<3;i++)
+	{
+		printf("Hello git");
+	}
+
+	printf("Floppy2");
+
 }
